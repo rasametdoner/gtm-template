@@ -1,6 +1,7 @@
 homepage: 'https://www.quinengine.com/'
-documentation: 'https://test.thequin.ai/documentation'
+documentation: 'https://github.com/rasametdoner/gtm-template'
 versions:
   # Latest version
   - sha: c3d8127160709654e4aa02436bdddb90dae2ba31
     changeNotes: Update display name
+  # Older versions
